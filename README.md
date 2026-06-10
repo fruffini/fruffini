@@ -44,8 +44,8 @@
 
 - **[2025]** Research visiting period at **Umeå University**.
 - **[2025]** Our systematic review on intermediate multimodal fusion appeared in *Image and Vision Computing*.
+- **[2024/2025]**Research visiting period at **Shenzhen University**.
 - **[2024]** Presented **MDMT** at **MICCAI 2024**.
-- Research visiting period at **Shenzhen University**.
 
 ---
 
