@@ -12,8 +12,6 @@
 
 - [**Intermediate Multimodal Fusion — Systematic Review**](https://github.com/fruffini/Intermediate-Multimodal-Fusion-Bio): A systematic review of intermediate fusion methods in multimodal deep learning for biomedical applications — taxonomy, notation, and a structured analysis of fusion strategies across 50+ works. Published in *Image and Vision Computing* (2025). [📄 Paper](https://www.sciencedirect.com/science/article/pii/S0262885625000976) · [arXiv](https://arxiv.org/abs/2408.02686)
 
-> ℹ️ Replace the placeholder links below with your actual repo URLs (or send me your repos tab and I'll fill them in).
-
 - [**MDMT**](https://github.com/fruffini/<REPO>): Multi-task / multi-modal framework for COVID-19 chest X-ray prognosis (AIforCOVID / BRIXIA). *Presented at MICCAI 2024.*
 - [**ShoViR**](work-in-progress...): A benchmark for evaluating shortcut learning in radiology vision–language models, with dedicated resilience–sensitivity metrics (Submitted ad ECCV 2026).
 - [**JoSS-DiT**](work-in-progress...): Joint Synthesis and Segmentation via a Diffusion Transformer for medical image generation.
