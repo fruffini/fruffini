@@ -1,16 +1,56 @@
-## Hi there 👋
+### Hi there 👋, I'm Filippo
 
-<!--
-**fruffini/fruffini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧑🏻‍🎓 I'm a PhD student in Biomedical Engineering, jointly affiliated with **Università Campus Bio-Medico di Roma (UCBM)** and **Umeå University** (Department of Diagnostics and Intervention), supervised by Prof. Paolo Soda. My work sits within the **DIGILUNG** project — an AI-boosted digital twin for personalised lung cancer care.
 
-Here are some ideas to get you started:
+🔬 My research focuses on **trustworthy multimodal medical AI**: survival prediction, radiology report generation, medical image synthesis, cross-modal retrieval, and the evaluation of vision–language models (shortcut learning, hallucination, robustness).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌏 I spent research visiting periods at **Shenzhen University** and **Umeå University (2025)**, and I presented our paper **MDMT** at **MICCAI 2024**.
+
+---
+
+#### 📂 Selected Projects
+
+- [**Intermediate Multimodal Fusion — Systematic Review**](https://github.com/fruffini/Intermediate-Multimodal-Fusion-Bio): A systematic review of intermediate fusion methods in multimodal deep learning for biomedical applications — taxonomy, notation, and a structured analysis of fusion strategies across 50+ works. Published in *Image and Vision Computing* (2025). [📄 Paper](https://www.sciencedirect.com/science/article/pii/S0262885625000976) · [arXiv](https://arxiv.org/abs/2408.02686)
+
+> ℹ️ Replace the placeholder links below with your actual repo URLs (or send me your repos tab and I'll fill them in).
+
+- [**MDMT**](https://github.com/fruffini/<REPO>): Multi-task / multi-modal framework for COVID-19 chest X-ray prognosis (AIforCOVID / BRIXIA). *Presented at MICCAI 2024.*
+- [**ShoViR**](work-in-progress...): A benchmark for evaluating shortcut learning in radiology vision–language models, with dedicated resilience–sensitivity metrics (Submitted ad ECCV 2026).
+- [**JoSS-DiT**](work-in-progress...): Joint Synthesis and Segmentation via a Diffusion Transformer for medical image generation.
+- [**NSCLC Multimodal Survival**](https://github.com/fruffini/<REPO>): Intermediate-fusion survival prediction for NSCLC combining tabular (NAIM + ODST) and foundation-model features.
+- [**Prognosis Benchmark**]([https://github.com/fruffini/<REPO>](https://github.com/fruffini/PEFT_Prognosis)): A benchmark for clinical-outcome / prognosis prediction from chest X-rays, with standardised datasets, splits, and baselines for fair model comparison.
+- [**MDMT**](https://github.com/fruffini/<REPO>): Multi-task / multi-modal framework for COVID-19 chest X-ray prognosis (AIforCOVID / BRIXIA). *Presented at MICCAI 2024.*
+- [**ShoViR**](work-in-progress...): A benchmark for evaluating shortcut learning in radiology vision–language models, with dedicated resilience–sensitivity metrics (Submitted ad ECCV 2026).
+- [**JoSS-DiT**](work-in-progress...): Joint Synthesis and Segmentation via a Diffusion Transformer for medical image generation.
+- [**NSCLC Multimodal Survival**](https://github.com/fruffini/<REPO>): Intermediate-fusion survival prediction for NSCLC combining tabular (NAIM + ODST) and foundation-model features.
+
+---
+
+#### 🛠️ Tools & Stack
+
+`Python` · `PyTorch` · `MONAI` · `Diffusers` · `Hugging Face` · distributed training on HPC (`SLURM`, multi-GPU)
+
+---
+
+#### 📝 Academic Service (Reviewer)
+
+- **MICCAI 2026** — reviewer
+- **Artificial Intelligence in Medicine (AIIM)** — journal reviewer
+- **ECCV** — reviewer
+
+---
+
+#### 🔥 News
+
+- **[2025]** Research visiting period at **Umeå University**.
+- **[2025]** Our systematic review on intermediate multimodal fusion appeared in *Image and Vision Computing*.
+- **[2024]** Presented **MDMT** at **MICCAI 2024**.
+- Research visiting period at **Shenzhen University**.
+
+---
+
+#### 📜 Find me online
+
+- 🎓 [Google Scholar](https://scholar.google.com/citations?user=eW7C8YMAAAAJ&hl=en)
+- 💼 [LinkedIn](https://www.linkedin.com/in/filippo-ruffini/)
+- 📧 filippo.ruffini@umu.se
