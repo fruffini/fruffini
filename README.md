@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Filippo
 
-🧑🏻‍🎓 I'm a PhD student in Biomedical Engineering, jointly affiliated with **Università Campus Bio-Medico di Roma (UCBM)** and **Umeå University** (Department of Diagnostics and Intervention), supervised by Prof. Paolo Soda. My work sits within the **DIGILUNG** project — an AI-boosted digital twin for personalised lung cancer care.
+🧑🏻‍🎓 I'm a PhD student enrolled in the **Italian National Program in Artificial Intelligence**, jointly affiliated with **Università Campus Bio-Medico di Roma (UCBM)** and **Umeå University** (Department of Diagnostics and Intervention), supervised by Prof. Paolo Soda. My work sits within the **DIGILUNG** project — an AI-boosted digital twin for personalised lung cancer care.
 
 🔬 My research focuses on **trustworthy multimodal medical AI**: survival prediction, radiology report generation, medical image synthesis, cross-modal retrieval, and the evaluation of vision–language models (shortcut learning, hallucination, robustness).
 
