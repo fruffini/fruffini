@@ -15,7 +15,7 @@
 [📄 Paper](https://link.springer.com/chapter/10.1007/978-3-031-72390-2_24)
 - [**NSCLC Multimodal Survival**](https://github.com/fruffini/Handling-Missing-Modalities-in-Multimodal-Survival-Prediction-for-Non-Small-Cell-Lung-Cancer): Intermediate-fusion survival prediction for NSCLC combining tabular (NAIM + ODST) and foundation-model features.
 [📄 Paper](Accepted) - [ArXiv](https://arxiv.org/abs/2601.10386)
-- [**Prognosis Benchmark**](https://github.com/fruffini/<REPO>](https://github.com/fruffini/PEFT_Prognosis): A benchmark for clinical-outcome / prognosis prediction from chest X-rays, with standardised datasets, splits, and baselines for fair model comparison.
+- [**Prognosis Benchmark**](https://github.com/fruffini/PEFT_Prognosis): A benchmark for clinical-outcome / prognosis prediction from chest X-rays, with standardised datasets, splits, and baselines for fair model comparison.
 - [**ShoViR**](work-in-progress...): A benchmark for evaluating shortcut learning in radiology vision–language models, with dedicated resilience–sensitivity metrics (Submitted ad ECCV 2026).
 [📄 Paper](Under review for ECCV-26)
 - [**JoSS-DiT**](work-in-progress...): Joint Synthesis and Segmentation via a Diffusion Transformer for medical image generation. 
