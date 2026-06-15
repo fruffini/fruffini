@@ -10,10 +10,10 @@
 
 #### 📂 Selected Projects
 
-- [**Intermediate Multimodal Fusion — Systematic Review**](https://github.com/fruffini/Intermediate-Multimodal-Fusion-Bio): A systematic review of intermediate fusion methods in multimodal deep learning for biomedical applications — taxonomy, notation, and a structured analysis of fusion strategies across 50+ works. Published in *Image and Vision Computing* (2025). [📄 Paper](https://www.sciencedirect.com/science/article/pii/S0262885625000976)
+- [**Intermediate Multimodal Fusion — Systematic Review**](https://github.com/cosbidev/Intermediate-Multimodal-Fusion-Bio): A systematic review of intermediate fusion methods in multimodal deep learning for biomedical applications — taxonomy, notation, and a structured analysis of fusion strategies across 50+ works. Published in *Image and Vision Computing* (2025). [📄 Paper](https://www.sciencedirect.com/science/article/pii/S0262885625000976)
 - [**MDMT**](https://github.com/fruffini/Multi-Dataset-Multi-Task-Learning-for-COVID-19-Prognosis): Multi-task / multi-modal framework for COVID-19 chest X-ray prognosis (AIforCOVID / BRIXIA). *Presented at MICCAI 2024.* 
 [📄 Paper](https://link.springer.com/chapter/10.1007/978-3-031-72390-2_24)
-- [**NSCLC Multimodal Survival**](https://github.com/fruffini/Handling-Missing-Modalities-in-Multimodal-Survival-Prediction-for-Non-Small-Cell-Lung-Cancer): Intermediate-fusion survival prediction for NSCLC combining tabular (NAIM + ODST) and foundation-model features.
+- [**NSCLC Multimodal Survival**](https://github.com/arco-group/Handling-Missing-Modalities-in-Multimodal-Survival-Prediction-for-Non-Small-Cell-Lung-Cancer): Intermediate-fusion survival prediction for NSCLC combining tabular (NAIM + ODST) and foundation-model features.
 [📄 Paper](Accepted) - [ArXiv](https://arxiv.org/abs/2601.10386)
 - [**Prognosis Benchmark**](https://github.com/fruffini/PEFT_Prognosis): A benchmark for clinical-outcome / prognosis prediction from chest X-rays, with standardised datasets, splits, and baselines for fair model comparison.
 - [**ShoViR**](work-in-progress...): A benchmark for evaluating shortcut learning in radiology vision–language models, with dedicated resilience–sensitivity metrics (Submitted ad ECCV 2026).
